@@ -4,13 +4,13 @@
  * @version: 
  * @Date: 2022-08-25 15:21:04
  * @LastEditors: huangqiang
- * @LastEditTime: 2022-08-25 15:51:37
+ * @LastEditTime: 2022-08-25 16:07:45
 -->
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <div>123</div>
+    <div>hahaha Jenkins 执行成功</div>
   </div>
 </template>
 
